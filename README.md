@@ -1,2 +1,3 @@
-# Chat_app_MERN-encryption
+# Quantum resistant encryption on real time chart application
+
  
